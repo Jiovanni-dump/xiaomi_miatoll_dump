@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Xiaomi
+ro.product.odm.device=miatoll
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=Miatoll
+ro.product.odm.name=aospa_miatoll
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri Oct  6 08:07:51 UTC 2023
+ro.odm.build.date.utc=1696579671
+ro.odm.build.fingerprint=Xiaomi/aospa_miatoll/miatoll:13/TKQ1.230829.001/frank10061407:userdebug/release-keys
+ro.odm.build.id=TKQ1.230829.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=userdebug
+ro.odm.build.version.incremental=eng.frank.20231006.140939
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+vendor.audio.offload.buffer.size.kb=256
+persist.vendor.bluetooth.modem_nv_support=true
+# end of file
+
