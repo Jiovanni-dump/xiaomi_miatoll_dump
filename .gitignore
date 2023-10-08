@@ -1,0 +1,12 @@
+vendor/lib64/libMegviiFacepp-0.5.2.so
+vendor/etc/camera/megviifacepp_0_5_2_model
+system/system/lib64/libMegviiUnlock.so
+system/system/lib64/libMegviiUnlock-jni-1.2.so
+product/app/Photos/Photos.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/app/Messages/Messages.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/GmsCore/GmsCore.apk
+boot.img
+bootimg/01_dtbdump_Qualcomm_Technologies,_Inc._ATOLL-AB_SoC.dtb

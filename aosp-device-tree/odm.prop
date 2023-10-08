@@ -1,0 +1,3 @@
+persist.vendor.bluetooth.modem_nv_support=true
+ro.vendor.qti.va_odm.support=1
+vendor.audio.offload.buffer.size.kb=256

@@ -1,0 +1,14 @@
+# aospa_miatoll-userdebug 13 TKQ1.230829.001 eng.frank.20231006.140939 release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: miatoll
+- flavor: aospa_miatoll-userdebug
+- release: 13
+- id: TKQ1.230829.001
+- incremental: eng.frank.20231006.140939
+- tags: release-keys
+- fingerprint: Xiaomi/aospa_miatoll/miatoll:13/TKQ1.230829.001/frank10061407:userdebug/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: aospa_miatoll-userdebug-13-TKQ1.230829.001-eng.frank.20231006.140939-release-keys
+- repo: xiaomi_miatoll_dump
