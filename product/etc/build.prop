@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Xiaomi
+ro.product.product.device=miatoll
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=Miatoll
+ro.product.product.name=aospa_miatoll
+ro.product.build.date=Mon Jan 22 02:57:24 KST 2024
+ro.product.build.date.utc=1705859844
+ro.product.build.fingerprint=Xiaomi/aospa_miatoll/miatoll:14/UKQ1.231207.002/jake01220257:user/release-keys
+ro.product.build.id=UKQ1.231207.002
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.jake.20240122.030006
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.support_hide_display_cutout=true
+ro.com.google.gmsversion=14_202310
+ro.opa.eligible_device=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v4_light
+ro.com.google.clientidbase=android-xiaomi
+ro.config.alarm_alert=Fresh_start.ogg
+ro.config.notification_sound=Eureka.ogg
+ro.config.ringtone=Your_new_adventure.ogg
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
+ro.support_one_handed_mode=true
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+persist.sys.disable_rescue=true
+# end of file
+
