@@ -1,0 +1,8 @@
+product/priv-app/Messages/Messages.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/app/Photos/Photos.apk.xz
+product/app/Gmail2/Gmail2.apk.xz
+boot.img.xz
+bootimg/01_dtbdump_Qualcomm_Technologies,_Inc._ATOLL-AB_SoC.dtb.xz
