@@ -1,0 +1,14 @@
+<!--
+    Input:
+        system/libhidl/vintfdata/system_ext_manifest.default.xml
+        device/qcom/common/system/telephony/atcmdfwd-saidl.xml
+-->
+<manifest version="7.0" type="framework">
+    <hal format="aidl">
+        <name>vendor.qti.hardware.radio.atcmdfwd</name>
+        <fqname>IAtCmdFwd/AtCmdFwdAidl</fqname>
+    </hal>
+    <vendor-ndk>
+        <version>34</version>
+    </vendor-ndk>
+</manifest>
