@@ -1,0 +1,14 @@
+# aospa_miatoll-user 14 UKQ1.240312.002 eng.nobody.20240424.213206 release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: miatoll
+- flavor: aospa_miatoll-user
+- release: 14
+- id: UKQ1.240312.002
+- incremental: eng.nobody.20240424.213206
+- tags: release-keys
+- fingerprint: Xiaomi/aospa_miatoll/miatoll:14/UKQ1.240312.002/nobody04242129:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: aospa_miatoll-user-14-UKQ1.240312.002-eng.nobody.20240424.213206-release-keys
+- repo: xiaomi_miatoll_dump
